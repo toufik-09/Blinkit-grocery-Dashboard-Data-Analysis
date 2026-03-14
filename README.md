@@ -47,5 +47,4 @@ preference or product dominance.
 ● Low Fat Items: Less sales (425,361.8), which may represent niche markets or
 health-conscious consumers.
 
-## Dashboard
-![](/Users/yourname/Desktop/dashboard.png)
+
