@@ -7,3 +7,5 @@ locations, and establishment years, with the aim to identify key growth areas, p
 and outlet efficiency. The insights will help optimize operations, product assortment, and regional
 strategies.
 ## Tools: Excel , Tableau. 
+## Dashboard,Dataset,Problem Statement.
+<https://drive.google.com/drive/folders/1qFdZm7g4FYwwNdfOzWhDjMbtYDbaw7Cd?usp=drive_link>
